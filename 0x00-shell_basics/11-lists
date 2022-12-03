@@ -1,0 +1,3 @@
+#!/bin/bash
+type iamafile tmp/
+ls -a . ../boot
